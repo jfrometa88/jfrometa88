@@ -33,7 +33,7 @@ Esta es una lista de las principales herramientas y tecnologías que utilizo en 
 Aquí puedes encontrar algunos de mis proyectos más relevantes donde aplico Machine Learning y análisis de datos:
 
 * [**Warehouse Analytics Dashboard with AI Agents**](https://github.com/jfrometa88/capstone_project_new): Panel de análisis integral de gestión de almacén construido con Plotly Dash, mejorado con agentes de IA especializados impulsados por Google Gemini. Este proyecto proporciona insights (conocimientos) inteligentes sobre los niveles de servicio al cliente, la previsión de la demanda de materiales y la gestión de inventario.
-<img width="742" height="681" alt="image" src="https://github.com/user-attachments/assets/ed0f60d9-b25b-4131-892d-b697bd599c42" />
+![Demostración del Dashboard de Análisis de Almacén](dashboard.gif)
 
 
 * [**Optimización de Producción con programación lineal usando AWS, Python, Flask, Gurobi y Matplotlib**](https://github.com/jfrometa88/Optimizaci-n-de-la-Planificaci-n-de-Producci-n-con-Programaci-n-Lineal):Proporciona una experiencia práctica en el uso de AWS Management Console y AWS Command Line Interface (CLI), con servicios de Cloud Computing como AWS EC2, S3 y otros servicios asociados como VPC, IAM. Combinando estos con una implmentación de una aplicación web usando Python con Python SDK para AWS, Gurobi, Matplotlib y Flask para introducir datos, resolver y acceder a los resultados de un modelo de optimización matemática de programación lineal basado en un caso de estudio real.
