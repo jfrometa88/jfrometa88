@@ -52,6 +52,3 @@ Me encantaría conectar y discutir proyectos de Data Science, Machine Learning y
 * 👔 **LinkedIn:** [Jorge Israel Frometa Moya](https://www.linkedin.com/in/jorge-israel-frometa-moya/)
 * ✉️ **Email:** Puedes contactarme directamente a través de mi perfil de LinkedIn.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfrometa88&show_icons=true&theme=vue-dark" alt="Estadísticas de GitHub de Jorge Frometa"/>
-</p>
